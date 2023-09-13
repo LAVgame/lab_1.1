@@ -8,3 +8,4 @@ if (e == "да" || e == "Да")
 Console.WriteLine($"CУПЕР привет друг!!");
 if (e == "нет" || e == "нет")
     Console.WriteLine($"Ну зато у тебя новый знакомый появился :)");
+Console.ReadLine();
