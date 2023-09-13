@@ -10,7 +10,10 @@ if (e == "нет" || e == "нет")
     Console.WriteLine($"Ну зато у тебя новый знакомый появился :)");
 
 
-Console.WriteLine($"2+2 = 4 ");
+Console.WriteLine($"Сколько будет 2+2х2 ?");
+e = Console.ReadLine();
+if (e == "6") Console.WriteLine("Молодец правильно");
+else Console.WriteLine("Увы попробуй вследущий раз лучше");
 Console.WriteLine($"Хорошо до скорой встречи приятель)");
 
 Console.ReadLine();
