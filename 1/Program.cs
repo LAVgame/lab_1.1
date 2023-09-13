@@ -9,5 +9,8 @@ Console.WriteLine($"CУПЕР привет друг!!");
 if (e == "нет" || e == "нет")
     Console.WriteLine($"Ну зато у тебя новый знакомый появился :)");
 
+
+Console.WriteLine($"2+2 = 4 ");
 Console.WriteLine($"Хорошо до скорой встречи приятель)");
+
 Console.ReadLine();
